@@ -227,7 +227,7 @@ a {
     height: 1400px;
     flex-wrap: wrap;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     margin: 40px 250px 70px 20px;
 }
